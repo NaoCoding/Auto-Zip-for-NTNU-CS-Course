@@ -18,7 +18,7 @@ Enter which No. of homework(ex.hw01 = 1)1
 ```
 ## What does it do 
 * Auto Zip all hw0x0x, makefile, README(or readme)
-* Help you check if hw0x01 ~ hw0x0x 
+* Help you check how many hw0x01 ~ hw0x0x you have 
 ## Screenshot
 ![image](https://github.com/NaoCoding/Auto-Zip-for-NTNU-CS-Course/assets/86964895/bb05b370-c2a1-4280-a148-d7f15ba38b72)
 ![image](https://github.com/NaoCoding/Auto-Zip-for-NTNU-CS-Course/assets/86964895/1bbf198d-20d9-40c8-8737-e2032819fc96)
