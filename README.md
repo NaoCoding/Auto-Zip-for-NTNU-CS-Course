@@ -23,4 +23,3 @@ Enter which No. of homework(ex.hw01 = 1)1
 ![image](https://github.com/NaoCoding/Auto-Zip-for-NTNU-CS-Course/assets/86964895/bb05b370-c2a1-4280-a148-d7f15ba38b72)
 ![image](https://github.com/NaoCoding/Auto-Zip-for-NTNU-CS-Course/assets/86964895/54ce626a-c8aa-49c5-b6b2-f73473aefb4e)
 
-```
