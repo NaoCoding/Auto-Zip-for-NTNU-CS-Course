@@ -15,7 +15,7 @@ for i in range(3):
 file_id = 1
 while(1):
 	file_path = "./hw0"+str(homework_id)+"0"+str(file_id)
-	if(os.path.exists(file_path)):
+	if(os.path.exists(file_path+".c")):
 
 		print("Found "+file_path+".c")
 		print("Saving "+file_path+".c")
