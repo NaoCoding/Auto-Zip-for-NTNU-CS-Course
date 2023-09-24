@@ -19,8 +19,7 @@ $ python3 ./autozip_ntnu.py
 * Auto Zip all hw0x0x, makefile, README(or readme)
 * Help you check if hw0x01 ~ hw0x0x 
 ## Screenshot
-
-![](https://hackmd.io/_uploads/HkeSmn61p.png)
-![](https://hackmd.io/_uploads/BkgL72TJT.png)
+![image](https://github.com/NaoCoding/Auto-Zip-for-NTNU-CS-Course/assets/86964895/bb05b370-c2a1-4280-a148-d7f15ba38b72)
+![image](https://github.com/NaoCoding/Auto-Zip-for-NTNU-CS-Course/assets/86964895/54ce626a-c8aa-49c5-b6b2-f73473aefb4e)
 
 ```
