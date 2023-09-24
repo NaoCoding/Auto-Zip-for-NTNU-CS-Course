@@ -14,6 +14,7 @@
 * 再輸入要 auto zip 的作業 No. 就可以了
 ```linux=
 $ python3 ./autozip_ntnu.py
+Enter which No. of homework(ex.hw01 = 1)1
 ```
 ## What does it do 
 * Auto Zip all hw0x0x, makefile, README(or readme)
