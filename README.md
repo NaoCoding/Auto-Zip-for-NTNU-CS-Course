@@ -2,6 +2,10 @@
 * Auto Zip Script for NTNU Computer Programming Course
 * 作者：116 盧昱安
 
+
+
+
+
 ## Overview
 * 類似makefile的功能，python 一鍵打包程設作業 to .zip 
 * 不需要額外下載其他plugin或是手動 zip [filename] [files] 來打包作業
